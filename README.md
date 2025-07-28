@@ -1,1 +1,2 @@
-# socials
+# Mini Projects
+
